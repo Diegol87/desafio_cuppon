@@ -1,0 +1,54 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.card-title {
+    color: #212529;
+    font-weight: 300;
+    font-size: 20px;
+}
+
+.card-text, .foot {
+    color: #707070;
+    font-weight: 300;
+    font-size: 16px;
+}
+
+.card-text2 {
+    color: #707070;
+    font-weight: 300;
+    font-size: 13px;
+}
+
+.hero {
+    color: #28A745;
+    font-weight: 500;
+    font-size: 20px;
+    padding-top: 1.25rem;
+}
+
+.precio {
+    color: #707070;
+    font-weight: 300;
+    font-size: 16px;
+}
+
+.subtitulo {
+    font-weight: 500;
+    font-size: 21px;
+}
+
+.forms, .nombre {
+    color: #707070;
+    font-weight: 300;
+    font-size: 16px;
+}
+
+.boton {
+    padding: 0.5rem 2rem;
+}
+
+.footimg {
+    height: 24px;
+    width: 82px;
+}
